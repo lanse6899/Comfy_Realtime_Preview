@@ -1,6 +1,7 @@
 # ImagePreviewNode - ComfyUI 图像实时预览插件
 
 一个强大的 ComfyUI 插件，提供图像实时预览功能，支持在节点下方实时显示图像预览，无需重复运行队列即可看到效果变化。
+说明视频：https://www.bilibili.com/video/BV19k1HBAEyL/
 
 PS：商用平台方使用请知会一声哈！
 
